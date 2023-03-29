@@ -13,7 +13,7 @@ Please make sure to switch to the new software version on all of your nodes befo
 Build and install the `regen` binary using regen-ledger version `v2.1.0`:
 
 ```
-git clone https://github.com/regen-network/regen-ledger
+git clone https://github.com/RegenNetwork/regen-ledger
 cd regen-ledger
 git fetch --all
 git checkout v2.1.0

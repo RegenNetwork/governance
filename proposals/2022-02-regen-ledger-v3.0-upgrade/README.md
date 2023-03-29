@@ -16,7 +16,7 @@ In order to meet this demand the RND Inc team is proposing an upgrade to Regen L
 
 Regen Ledger v3.0 updates the ecocredit module to include basket functionality, enabling the aggregation of heterogeneous ecosystem service credits into baskets. Credits from different credit classes and batches that meet a defined criteria can be deposited within a basket in exchange for basket tokens. The basket tokens are fully fungible with other tokens from the same basket, and are tracked in the standard Bank module, which means these assets will be made visible in wallets like Keplr, and also able to be transferred via IBC to other chains in the Cosmos ecosystem. Each basket token can later be redeemed for an underlying ecocredit from the given basket, and the ecocredits received may be retired by the account receiving them (for offsetting emissions).
 
-For more information about the full specification for basket functionality, see the [basket specification](https://github.com/regen-network/regen-ledger/blob/master/rfcs/002-baskets-specification.md).
+For more information about the full specification for basket functionality, see the [basket specification](https://github.com/RegenNetwork/regen-ledger/blob/master/rfcs/002-baskets-specification.md).
 
 With the recent solidification of the [NCT standard](https://docs.toucan.earth/protocol/pool/pool-parties/nct-pool-party-report), we are proposing an accelerated timeline for the baskets module to bring NCT's into the Cosmos ecosystem.
 

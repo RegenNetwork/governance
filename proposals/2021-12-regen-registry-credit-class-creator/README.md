@@ -6,7 +6,7 @@ This is a parameter change proposal to add a multisig address for [Regen Registr
 
 The progressive decentralization of Regen Registry will go hand in hand with the decentralization of this address, which we hope to turn into a group account to allow the appropriate stakeholders to become involved in the management and oversight of credit class creation. With this in mind, the RND staff plans to use this address to create credit classes on behalf of Regen Registry, as well as other registry programs, to issue ecosystem service credits on Regen Ledger while we work with the community to progressively decentralize credit class management and governance. In applying on behalf of Regen Registry, RND is committing to do whatever makes the most sense to bring Regen Registry, as well as other registry programs, on chain. 
 
-This proposal, written following the guidelines in [Process For Becoming a Credit Class Creator](https://github.com/regen-network/governance/blob/main/proposals/2021-09-regen-ledger-v2-signalling/credit-class-creator-process.md), demonstrates the qualifications of Regen Registry for being an approved credit class creator and our commitment to work with the community to decentralize governance of credit class creation. The document includes the following:
+This proposal, written following the guidelines in [Process For Becoming a Credit Class Creator](https://github.com/RegenNetwork/governance/blob/main/proposals/2021-09-regen-ledger-v2-signalling/credit-class-creator-process.md), demonstrates the qualifications of Regen Registry for being an approved credit class creator and our commitment to work with the community to decentralize governance of credit class creation. The document includes the following:
 
 - overview of Regen Registry
 

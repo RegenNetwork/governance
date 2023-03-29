@@ -70,4 +70,4 @@ Following Regen Ledger `v4.0`, and now with Regen Ledger `v5.0`, all experimenta
 
 ## Changelog
 
-For a full list of changes since Regen Ledger `v4.1`, please see [CHANGELOG.md](https://github.com/regen-network/regen-ledger/blob/v5.0.0/CHANGELOG.md).
+For a full list of changes since Regen Ledger `v4.1`, please see [CHANGELOG.md](https://github.com/RegenNetwork/regen-ledger/blob/v5.0.0/CHANGELOG.md).
